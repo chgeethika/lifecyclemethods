@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
-
+```
 ## OUTPUT
 ![Screenshot (295)](https://github.com/chgeethika/lifecyclemethods/assets/142209368/3ddf0fe8-e6ff-4a8b-88f2-88d3b996ee5b)
 ![Screenshot (296)](https://github.com/chgeethika/lifecyclemethods/assets/142209368/3d5c06a0-a8cd-4847-a9e8-e195f77b24b7)
